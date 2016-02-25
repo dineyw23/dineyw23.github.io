@@ -7,11 +7,11 @@
 
 # Site settings
 title: Diney Wankhede
-email: dwankhedel@csuchico.edu
+email: dwankhede@csuchico.edu
 
 description: > # this means to ignore newlines until "baseurl:"
   Human | Learner | Computer Science | Student
-  Student Programmer at Distributed Learning Technology.
+  Student Programmer at Distributed Learning Technologies.
   Graduate student at California State University, Chico.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dineyw23.github.iom" # the base hostname & protocol for your site
