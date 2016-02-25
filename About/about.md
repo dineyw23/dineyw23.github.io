@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-Hi. I am Diney Wankhede. 
 Okay, be patient! 
 Diney is learning to develop a site for free using Jekyll.
 
