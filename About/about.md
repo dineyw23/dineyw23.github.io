@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -18,5 +18,4 @@ Diney is learning to develop a site for free using Jekyll.
 [Github](https://github.com/dineyw23)
 {% include icon-twitter.html username="diney12323" %} /
 [Twitter Handle](https://twitter.com/diney12323)
-{% include icon-linkedin.png %}
 [LinkedIn](https://www.linkedin.com/in/diney-wankhede-3b271227)
