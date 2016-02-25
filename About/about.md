@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
+<img src="ImageDP.jpg" width="40%" align="right">
+
+Hello. I am Diney Wankhede. A learner for life who is currently working towards his Masters Degree in Computer Science.
+
 Okay, be patient! 
+
 Diney is learning to develop a site for free using Jekyll.
 
-{% include icon-github.html username="dineyw23" %} /
-[Website Source](https://github.com/dineyw23/dineyw23.github.io)
+## You can reach me ...
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include icon-github.html username="dineyw23" %} 
+[Github](https://github.com/dineyw23)
+{% include icon-twitter.html username="diney12323" %} /
+[Twitter Handle](https://twitter.com/diney12323)
+{% include icon-linkedin.png %}
+[LinkedIn](https://www.linkedin.com/in/diney-wankhede-3b271227)
