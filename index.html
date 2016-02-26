@@ -4,13 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">... Take a moment to know me ...</h1>
+  <h1 class="page-heading" align="middle">... Take a moment to know me ...</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" align="middle" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
       <img class="img" src="{{ site.url }}/Pixabay.jpg" align="middle" >
