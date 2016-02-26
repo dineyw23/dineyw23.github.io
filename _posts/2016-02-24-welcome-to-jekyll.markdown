@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posts aggregator
+title: Post aggregator
 ---
 
 #### Something interesting is coming up here.
