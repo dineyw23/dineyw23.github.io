@@ -7,11 +7,12 @@ permalink: /about
 
 <img src="{{ site.url }}/About/ImageDP.jpg" width="40%" align="right">
 
-Hi, I'm Diney Wankhede. I am a constant learner who is living in California. I'm currently working towards my Masters Degree in Computer Science.
-Alongside, I work as a Student Assistant at Distributed Learning Technologies at Chico State.
+Hi, My name is Diney Wankhede. I'm a persistent learner, Indian by origin who is living in California. I'm currently working towards my Masters Degree in Computer Science.
+Alongside, I work as a Student Assistant at Distributed Learning Technologies - Chico State.
 I hope to share some of my work here.
-Okay, be patient! 
-Diney is learning to develop a site for free using Jekyll. 
+
+  > Okay, be patient! 
+  >> Diney is learning to develop a site for free using Jekyll. 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
