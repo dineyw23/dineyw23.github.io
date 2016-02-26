@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+active: about
+permalink: /about
 ---
 
 <img src="ImageDP.jpg" width="40%" align="right">
