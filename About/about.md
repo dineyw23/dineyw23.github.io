@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-active: about
+active: About Me
 permalink: /about
 ---
 

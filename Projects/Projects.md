@@ -1,10 +1,8 @@
 ---
-
 layout: page
-active: project
 title: Projects
-permalink: /projects
-
+active: Projects
+permalink: /proj
 ---
 
 ## I'll give you an overview of my projects...
