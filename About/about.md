@@ -6,10 +6,9 @@ permalink: /about/
 
 <img src="ImageDP.jpg" width="40%" align="right">
 
-Hello. I am Diney Wankhede. I am an Indian maker who is living in California. I am currently working towards my Masters Degree in Computer Science.
-
+Hi, I'm Diney Wankhede. I am a constant learner who is living in California. I'm currently working towards my Masters Degree in Computer Science.
 Alongside, I work as a Student Assistant at Distributed Learning Technologies at Chico State.
-
+I hope to share some of my work here.
 Okay, be patient! 
 Diney is learning to develop a site for free using Jekyll.
 
