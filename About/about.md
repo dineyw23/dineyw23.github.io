@@ -11,8 +11,7 @@ Hi, My name is Diney Wankhede. I'm a persistent learner, Indian by origin who is
 Alongside, I work as a Student Assistant at Distributed Learning Technologies - Chico State.
 I hope to share some of my work here.
 
-  > Okay, be patient! 
-  >> Diney is learning to develop a site for free using Jekyll. 
+  > Okay, be patient! Diney is learning to develop a site for free using Jekyll. 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
