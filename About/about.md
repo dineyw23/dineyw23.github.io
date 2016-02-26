@@ -12,6 +12,15 @@ I hope to share some of my work here.
 Okay, be patient! 
 Diney is learning to develop a site for free using Jekyll.
 
+
+
+
+
+
+
+
+
+
 ### You can reach me ...
 
 - [Github](https://github.com/dineyw23)
