@@ -1,8 +1,10 @@
 ---
+
 layout: page
 active: project
 title: Projects
 permalink: /projects
+
 ---
 
 ## I'll give you an overview of my projects...
