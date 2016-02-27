@@ -9,11 +9,11 @@ permalink: /proj
 
 <div id="projects">
   {% for projects in site.data.projects %}
-  <div class="projects">
+  <div class="project">
   <h1> {{ project.name }}</h1>
   </div>
   {% endfor %}
-  </div>
+</div>
 
 ## I'll give you an overview of my projects...
 
