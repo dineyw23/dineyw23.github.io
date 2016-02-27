@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: notitle
 title: Employment
 permalink: /emp
 active: Employment
