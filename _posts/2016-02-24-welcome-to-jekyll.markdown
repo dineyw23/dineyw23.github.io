@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 
-permalink: /pronounciation
+title: Call me like this ... 
+permalink: /pronunciation
 ---
 
 #### Something interesting is coming up here.
 
 **For now**
-  My name is pretty difficult to pronounce. My first name like 'Dee-nay' -Indian origin. :)  
 
+  -  I believe my first name is difficult to pronounce. Give it a try
+  > 'Dee-nay' -Indian origin.
