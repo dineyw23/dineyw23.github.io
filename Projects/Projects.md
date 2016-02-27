@@ -7,8 +7,8 @@ permalink: /proj
 
 ---
 
-<div id="projects">
-  {% for projects in site.data.projects %}
+<div id="Projects">
+  {% for projects in {{ site.url/_data/projects }} %}
   <div class="project">
   <h1> {{ project.name }}</h1>
   </div>
