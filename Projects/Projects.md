@@ -5,6 +5,16 @@ active: Projects
 permalink: /proj
 ---
 
+---
+
+<div id="projects">
+  {% for projects in site.data.projects %}
+  <div class="projects">
+  <h1> {{ project.name }}</h1>
+  </div>
+  {% endfor %}
+  </div>
+
 ## I'll give you an overview of my projects...
 
 1. [Goldchase](https://github.com/dineyw23/Distributed-Programming): 
