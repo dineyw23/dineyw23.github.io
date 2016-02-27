@@ -1,7 +1,8 @@
 ---
 
-layput: page
+layout: page
 title: Employment
+active: Employment
 permalink: /employment
 
 ---
