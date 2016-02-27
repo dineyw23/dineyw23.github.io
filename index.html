@@ -4,8 +4,9 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading" align="middle">... Take a moment to know me ...</h1>
+  <h1 class="page-heading" align="middle">... Take a moment to know me better ...</h1>
 
+  <img class="img" src="{{ site.url }}/Pixabay.jpg" align="middle" >
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -13,7 +14,6 @@ layout: default
           <a class="post-link" align="middle" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
-      <img class="img" src="{{ site.url }}/Pixabay.jpg" align="middle" >
     {% endfor %}
   </ul>
 
