@@ -8,5 +8,6 @@ permalink: /pronunciation
 
 **For now**
 
-  -  I believe my first name is difficult to pronounce. Give it a try
-  > 'Dee-nay' -Indian origin.
+-  I believe my first name is difficult to pronounce. Give it a try
+
+> 'Dee-nay' -Indian origin.
