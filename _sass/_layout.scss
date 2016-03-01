@@ -102,7 +102,7 @@
     padding: $spacing-unit 0;
     background-color: $head-foot-color;
     max-height: 56px;}
-
+/*
 .footer-heading {
     font-size: 15px;
     margin-bottom: 0;//$spacing-unit / 2;
@@ -132,16 +132,15 @@
     width:         calc(50% );//- (#{$spacing-unit} / 2));
 }
 
-/*.footer-col-2 {
+.footer-col-2 {
     width: -webkit-calc(0% - (#{$spacing-unit} / 2));
     width:         calc(0% - (#{$spacing-unit} / 2));
-}*/
-
+}
 .footer-col-3 {
     width: -webkit-calc(50%);// - (#{$spacing-unit} / 2));
     width:         calc(50%); //- (#{$spacing-unit} / 2));
 }
-
+*/
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
