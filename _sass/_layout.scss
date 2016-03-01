@@ -122,7 +122,7 @@
 }
 
 .footer-col {
-    float: left;
+    //float: left;
     margin-bottom: 1px;
     padding-left: $spacing-unit / 2;
 }
@@ -132,10 +132,10 @@
     width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-2 {
+/*.footer-col-2 {
     width: -webkit-calc(0% - (#{$spacing-unit} / 2));
     width:         calc(0% - (#{$spacing-unit} / 2));
-}
+}*/
 
 .footer-col-3 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
