@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call me like this ... 
+title: Pronouncing 'Diney' 
 permalink: /pronunciation
 ---
 
