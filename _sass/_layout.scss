@@ -113,6 +113,7 @@
     list-style: none;
     margin-left: 0;
 }
+*/
 
 .footer-col-wrapper {
     font-size: 12px;
@@ -121,6 +122,12 @@
     @extend %clearfix;
 }
 
+.footer-col-1 {
+  width: -webkit-calc(50%) - (#{$spacing-unit} / 2));
+  width:         calc(50%) - (#{$spacing-unit} / 2));
+
+}
+/*
 .footer-col {
     //float: left;
     margin-bottom: 1px;
