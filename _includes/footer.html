@@ -6,9 +6,16 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1" align="left">
-        <ul class="contact-list">
+        <colgroup>
+        <col span = "2">  
+        </colgroup>
+        <tr>
+          <td><a href="mailto:{{ site.email }}" >{{ site.email }}</a></td>
+          <td>{{ site.description }}</td>
+              
+       <!-- <ul class="contact-list">
             
-           <li><a href="mailto:{{ site.email }}" >{{ site.email }}</a></li>
+          <li><a href="mailto:{{ site.email }}" >{{ site.email }}</a></li>
         {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -20,7 +27,7 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-</ul>
+</ul>--!>
       <div class="footer-col footer-col-2" align="middle">
         <!--<ul class="social-media-list">
                   </ul>--!>
