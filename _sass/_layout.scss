@@ -121,13 +121,13 @@
     margin-left: 0;//-$spacing-unit / 2;
     @extend %clearfix;
 }
-
+/*
 .footer-col-1 {
   width: -webkit-calc(50%) - (#{$spacing-unit} / 2));
   width:         calc(50%) - (#{$spacing-unit} / 2));
 
 }
-/*
+
 .footer-col {
     //float: left;
     margin-bottom: 1px;
