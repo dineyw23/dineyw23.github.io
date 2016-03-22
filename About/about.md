@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 active: About Me
-permalink: /about
+permalink: about
 ---
 
 <img src="{{ site.url }}/About/ImageDP.jpg" width="40%" align="right">
