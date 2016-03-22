@@ -4,14 +4,11 @@
 
     <h2 class="footer-heading">Learn More, See More</h2>
 
-        <colgroup>
-        <col span = "2">  
-        </colgroup>
-        <tr>
-          <td><a href="mailto:{{ site.email }}" >{{ site.email }}</a></td>
-          <td>{{ site.description }}</td>
-        </tr> 
-      <ul class="contact-list">
+        <ul class="contact-list">
+          <li> 
+          {% include icon-github.html username=site.email %}
+          </li>
+        
         {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
