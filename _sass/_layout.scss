@@ -101,7 +101,9 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background-color: $head-foot-color;
-    min-height: 56px;}
+    min-height: 56px;
+    position:absolute;  
+}
 /*
 .footer-heading {
     font-size: 15px;
