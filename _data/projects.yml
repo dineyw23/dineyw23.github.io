@@ -9,10 +9,34 @@
     branch: master
 
 - name: String Substitution
-
+  time: November 2015
+  tagline: Most efficient Object oriented find and replace
+  tools: C++, Standard Template Libraries, Object Oriented
+  description: |
+    Object oriented mini-project developed in C++ which can be used for text substitution(Find and Replace) using minimal buffer. Reading the file only once and replacing the text in a single iteration using a dynamic buffer of size much less than that of replacement word are the key aspects of this project. Used std::fstream library.
+  github: 
+    url: dineyw23
+    branch: master
+  
 - name: Flash
+  time: May 2015
+  tagline: Smart Sticky Notes Android Application
+  tools: Android, Java, XML, Google Maps API, AWS EC2
+  description: | 
+    An android application to take notes (build flash cards) using android’s 3D flip animation with proximity  alert system and 'Share with classmates' feature.  
 
 - name: AuctionPro
+  time: Decmber 2014
+  tagline: Auction System for E-commerce 
+  tools: Oracle 11g, PL/SQL, Visual Basic, Visual Studio, SQL Developer
+  description: | 
+    In the E-commerce world, competition is booming and maintaining a top spot needs new and creative ideas. Designed and developed a windows application which can be used with number of E-commerce sites where auctioning facility is not available. This project furnished my skill to write optimum stored procedures and managing database connectivity with the front-end.
 
 - name: Security
+  time: April 2014
+  tagline: Authentication System for Session Passwords
+  tools: C# and .NET framework, Eclipse IDE and Rational Rose(ER-Diagrams)
+  description: | 
+    Importance of network security motivated me to work as a group leader in a group of four under the domain of Network security.  Developed a tool for high security devices like PDAs (Personal Digital Assistant). This inexpensive system uses color rating along with text to generate different passwords each time. It is not vulnerable to eavesdropping,dictionary attacks, social engineering and shoulder surfing. 
+  url: http://www.advanceresearchlibrary.com/vol3jct4.aspx
 
