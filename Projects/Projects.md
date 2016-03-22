@@ -15,7 +15,7 @@ title: Projects
         <span style="color:#4C4C4C">{{ project.tagline }}</span></span></span></h1>
       <div class="meta">
                 <span class="time" style="font-weight: bold"><span style="color:#333333">{{ project.time }}</span></span>
-                <span class="toolstack">| <span style="color:#0087FF">toolstack:</span></span> {{ project.tools | join: ", " }}
+                <span class="toolstack">| <span style="color:#afeed3">toolstack:</span></span> {{ project.tools | join: ", " }}
             </div>
       {% if project.description %}
       <div class="description">{{ project.description | markdownify}}</div>
