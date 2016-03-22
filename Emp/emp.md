@@ -6,7 +6,6 @@ permalink: emp
 ---
 
 ---
-
 <div id="employment">
     {% for emp in site.data.emps %}
         <div class="emps">
@@ -14,8 +13,8 @@ permalink: emp
         <span class="separator" style="font-size: 20px">|</span>
         <span style="font-size: 20px">
         <span style="font-weight: normal">
-        <span style="color:#ff7476">{{ emp.tagline }}</span></span></span></h1>
-      <div class="meta">
+       <span style="color:#ff7476">{{ emp.tagline }}</span></span></span></h1>
+        <div class="meta">
             <span class="time" style="font-weight: bold">
             <span style="color:#333333">{{ emp.time1 }} - {{emp.time2 }}
             </span></span>
