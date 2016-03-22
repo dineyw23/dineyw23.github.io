@@ -17,8 +17,8 @@ title: Projects
                 <span class="time" style="font-weight: bold"><span style="color:#333333">{{ project.time }}</span></span>
                 <span class="toolstack">| <span style="color:#0087FF">toolstack:</span></span> {{ project.tools | join: ", " }}
             </div>
-      {% if project.description }
-      <div class="description">{{ project.description | markdownify }}</div>
+      {% if project.description %}
+      <div class="description">{{ project.description | markdownify}}</div>
       {% endif %}   
       {% if project.url or project.github %}
                 {% if project.url %}
