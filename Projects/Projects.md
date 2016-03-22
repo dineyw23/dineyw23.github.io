@@ -17,8 +17,10 @@ title: Projects
                 <span class="time" style="font-weight: bold"><span style="color:#333333">{{ project.time }}</span></span>
                 <span class="toolstack">| <span style="color:#0087FF">toolstack:</span></span> {{ project.tools | join: ", " }}
             </div>
-      <div class="description">{{ project.description}}</div>
-         {% if project.url or project.github %}
+      {% if project.description }}
+      <div class="description">{{ project.description | markdownify }}</div>
+      {% endif %}   
+      {% if project.url or project.github %}
                 {% if project.url %}
                     <a href="{{ project.url }}" class="btn btn-md btn-default" target="_blank"><i class="fa fa-link fa-fw"></i>view online</a>
                 {% endif %}
