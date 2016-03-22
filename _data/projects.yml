@@ -2,8 +2,7 @@
   time: Spring 2016
   tagline: Multiplayer Terminal Game
   tools: C++, Shared Memory, Semaphore, Inter-process communication
-  description: | 
-  A multiplayer game focusing on distributed programming and inter-process communication developed using C++. Currently working on its object oriented design.
+  description: | A multiplayer game focusing on distributed programming and inter-process communication developed using C++. Currently working on its object oriented design.
   github:
     url: dineyw23/Distributed-Programming    
     branch: master
