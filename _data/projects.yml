@@ -3,9 +3,7 @@
   tagline: Multiplayer Terminal Game
   tools: C++, Shared Memory, Semaphore, Inter-process communication
   description: A multiplayer game focusing on distributed programming and inter-process communication developed using C++. Currently working on its object oriented design.
-  github:
   branch: master
-
 - name: String Substitution
 
 - name: Flash
