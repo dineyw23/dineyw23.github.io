@@ -30,5 +30,6 @@ title: Projects
 
             {% endif %}      
   </div>
+  <hr />
   {% endfor %}
 </div>
