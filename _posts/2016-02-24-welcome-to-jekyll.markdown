@@ -4,10 +4,33 @@ title: Pronouncing 'Diney'
 permalink: /pronunciation
 ---
 
-#### Something interesting is coming up here.
 
-**For now**
+
 
 -  I believe my first name is difficult to pronounce. Give it a try
 
+
 > 'Dee-nay' -Indian origin.
+
+
+
+<div class="space">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>
+
+
+</div>
+
+
+
+
+
+
+
+
