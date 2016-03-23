@@ -15,6 +15,11 @@
   ga('send', 'pageview');
 
 </script>
+{% if page.url == "/404.html" %}
+<meta http-equiv="refresh" content="5; url=/">
+{% endif %}
+
+</meta>
 </head>
   <body>
 
