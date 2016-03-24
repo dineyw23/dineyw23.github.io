@@ -8,7 +8,10 @@
 exclude: [vendor]
 # Site settings
 title: Diney Wankhede
-email: diney.12323@gmail.com 
+email: diney.12323@gmail.coa 
+
+gems:
+  - jekyll-sitemap
 
 description: > # this means to ignore newlines until "baseurl:"
   Learn more, see more.
@@ -18,4 +21,4 @@ twitter_username: diney12323
 github_username:  dineyw23
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
