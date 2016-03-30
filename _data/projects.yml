@@ -1,3 +1,14 @@
+- name: Disc It
+  time: March 2016
+  tagline: Discussion Personal Project Application
+  tools: Ruby, Rails, Heroku, Bootstrap, HTML5, CSS3
+  description: |
+    Ruby on Rails application hosted on heroku, built using different resource available on web. Used devise, links, acts_as_votable and bootstrap-sass ruby gems. Implemented different scaffolds.
+  github: 
+    url: dineyw23/Discus_It
+    branch: master
+  url: https://obscure-shore-79731.herokuapp.com/
+    
 - name: GoldChase
   time: Spring 2016
   tagline: Multiplayer Terminal Game
