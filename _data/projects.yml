@@ -1,6 +1,6 @@
-- name: Disc It
+- name: Discus It
   time: March 2016
-  tagline: Discussion Personal Project Application
+  tagline: Personal Project - Discussion Application
   tools: Ruby, Rails, Heroku, Bootstrap, HTML5, CSS3
   description: |
     Ruby on Rails application hosted on heroku, built using different resource available on web. Used devise, links, acts_as_votable and bootstrap-sass ruby gems. Implemented different scaffolds.
