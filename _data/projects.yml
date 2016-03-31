@@ -9,6 +9,17 @@
     branch: master
   url: https://obscure-shore-79731.herokuapp.com/
     
+- name: Portfolio
+  time: February 2016
+  tagline: Personal Project - Portfolio Website
+  tools: Jekyll, Github pages, HTML5, CSS3, yaml, markdown, bootstrap.
+  description: |
+    Developed and hosting this site for free on Github pages with a custom domain. Github pages supports static pages only and hence there are limitations. Hosting a site lifetime for free was my motivation to learn static page development. Adding new projects and employment is super easy as it uses liquid tags to read yml docs.
+  github:
+    url: dineyw23/dineyw23.github.io
+    branch: master
+  url: http://www.dineywankhede.com/
+
 - name: GoldChase
   time: Spring 2016
   tagline: Multiplayer Terminal Game
