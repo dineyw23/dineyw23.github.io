@@ -5,7 +5,11 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: $head-foot-color;
+    background: $head-foot-color;
+    background: -webkit-linear-gradient($head-foot-color, #340034); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient($head-foot-color, #340034); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient($head-foot-color, #340034); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, $head-foot-color, #00ced1); /* Standard syntax (must be last) */
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -108,7 +112,11 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: $head-foot-color;
+    background: $head-foot-color;
+    background: -webkit-linear-gradient($head-foot-color, #340034); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient($head-foot-color, #340034); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient($head-foot-color, #340034); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, $head-foot-color, #00ced1); /* Standard syntax (must be last) */
     min-height:100%;
     
 
