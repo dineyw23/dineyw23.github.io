@@ -11,17 +11,17 @@
     background: -moz-linear-gradient($head-foot-color, #340034); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, $head-foot-color, #00ced1); /* Standard syntax (must be last) */
     // Positioning context for the mobile navigation icon
-    position: relative;
-}
+    position: fixed;
+    width: 100%;
+} 
 
 .site-title {
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
+    margin-bottom: 0px;
     float: left;
-
     &,
     &:visited {
         color: $grey-color-dark;
@@ -204,10 +204,12 @@
 }
 
 .page-heading {
+    margin-top: 56px;
     font-size: 20px;
 }
 
 .post-list {
+    margin-top: 56px;
     margin-left: 0;
     list-style: none;
 
@@ -233,6 +235,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    margin-top: 56px;
 }
 
 .post-title {
