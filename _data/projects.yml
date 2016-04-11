@@ -61,4 +61,6 @@
   description: | 
     Importance of network security motivated me to work as a group leader in a group of four under the domain of Network security.  Developed a tool for high security devices like PDAs (Personal Digital Assistant). This inexpensive system uses color rating along with text to generate different passwords each time. It is not vulnerable to eavesdropping,dictionary attacks, social engineering and shoulder surfing. 
   url: http://www.advanceresearchlibrary.com/vol3jct4.aspx
-
+  github:
+    url: dineyw23/AuthSystem
+    branch: master
