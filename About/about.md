@@ -7,9 +7,9 @@ permalink: about
 
 <img src="{{ site.url }}/About/ImageDP.jpg" width="40%" align="right">
 
-Hello. I am Diney Wankhede. A student, a learner and an Indian who is living in California. I am currently working towards my Masters Degree in Computer Science at California State University, Chico.
-Alongside, I work as a Developer at Distributed Learning Technologies - Chico State. 
-I am passionate about technology, programming and design. This site will help you to know me better. I code and hope to share some of my work here.
+Hi. I'm Diney Wankhede; an Indian student and learner currently working towards my Masters Degree in Computer Science at California State University, Chico.
+Simultaneously, I work as a Developer at Distributed Learning Technologies - Chico State. 
+I am passionate about technology, programming and design. This site will help you to know me better as I code and share some of my work here.
 
 
 
