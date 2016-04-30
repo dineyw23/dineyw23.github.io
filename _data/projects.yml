@@ -47,6 +47,17 @@
   description: | 
     An android application to take notes (build flash cards) using android’s 3D flip animation with proximity  alert system and 'Share with classmates' feature.  
 
+- name: Thoughtly
+  time: April 2016 
+  tagline: Fictious webpage to post whatever is in your mind
+  tools: HTML5, CSS3, jQuery, Bootstrap.
+  description: |
+  A simple webpage coded based on online tutorials to brush up syntax of jQuery and CSS. Hosted it on my website.
+  github:
+    url: dineyw23/Thoughtly
+    branch: gh-pages
+  url: http://www.dineywankhede.com/Thoughtly
+  
 - name: AuctionPro
   time: Decmber 2014
   tagline: Auction System for E-commerce 
