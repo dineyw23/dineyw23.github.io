@@ -8,7 +8,7 @@
 exclude: [vendor]
 # Site settings
 title: Diney Wankhede
-email: diney.12323@gmail.coa 
+email: diney.12323@gmail.com
 
 gems:
   - jekyll-sitemap
