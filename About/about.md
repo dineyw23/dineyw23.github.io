@@ -23,7 +23,7 @@ I am passionate about technology, programming and design. This site will help yo
 
 ### You can reach me ...
 
-- diney.12323@gmail.com
+- <a href="mailto:diney.wankhede@gmail.com"> E-mail</a>
 - [LinkedIn](https://www.linkedin.com/in/diney-wankhede-3b271227)
 - [Github](https://github.com/dineyw23)
 - [Bitbucket](https://bitbucket.com/dineyw23)
