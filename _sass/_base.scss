@@ -69,9 +69,11 @@ h1#lname {
         font-size: 18px;
         font-weight:300;
     }
+   
 
       a {
         text-decoration: none;
+        color: #000;
     }
 
     .underline {
@@ -241,6 +243,19 @@ h1#lname {
         color: #FFFFFF;
 
     }
+    h3 {
+        text-decoration: none;
+        font-weight: 300;
+        margin-left: 90px;
+        margin-bottom: 20px;
+        color: #FFFFFF;
+
+        a{
+            text-decoration: none;
+            color: #FFFFFF;
+            border-bottom: solid 1px #ffffff;
+        }
+    }
 }
 
 
@@ -271,9 +286,9 @@ h1#lname {
     h3 {
         margin-left: 90px;
         margin-top: 20px;
-        color: #FF0000;
+        color: #297B31;
         font-size: 18px;
-        font-weight: 300;
+        font-weight: 500;
     }
 
     div.skill-table {
