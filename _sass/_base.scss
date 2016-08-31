@@ -1,11 +1,11 @@
 
 body { 
-  background-color: #4F4F4F;
+  background-color: rgb(79, 79, 79);
 }
 
 .wrapper-1 {
     margin: 20px;
-    background-color: #ECF7F0;
+    background-color: rgb(236, 247, 240);
     position: relative;
     height: 100%; 
     overflow: hidden;
@@ -39,7 +39,7 @@ body {
 #menu-line {
     margin-left: 4em;
     margin-right: 4em;
-    opacity: .2;
+    opacity: 0.2;
     margin-top: 1.5em;
 }
 
@@ -88,7 +88,7 @@ h1#lname {
 #wrapper-2 {
     margin-top: 160px;
     display: block;
-    background-color: #FFFFFF;
+    background-color: rgb(255, 255, 255);
     position: relative;
     overflow: hidden;
     box-sizing: inherit;
@@ -441,12 +441,7 @@ h1#lname {
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 480px) and (min-device-width: 320px) and (orientation: portrait) {
 
     .wrapper-1 {
         margin: 5px;
@@ -705,33 +700,9 @@ h1#lname {
 
 }
 
-/* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 480px) and (min-device-width: 320px) and (orientation: landscape) {
 
     .content-background {
-        display: none;
         display: block;
     }
-}
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-
 }
